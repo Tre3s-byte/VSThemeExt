@@ -3,7 +3,7 @@
   "displayName": "Sakura × Deep Space",
   "description": "Two themes inspired by cherry blossoms against dark sky and clean porcelain light — dark & light variants.",
   "version": "1.0.0",
-  "publisher": "Tr3es",
+  "author": "Tr3es",
   "engines": { "vscode": "^1.70.0" },
   "categories": ["Themes"],
   "contributes": {
